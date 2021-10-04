@@ -1,0 +1,7 @@
+.jumbotron {
+  padding: 5rem 1rem;
+  background-image: url(/img/bg.jpg);
+}
+section {
+  padding-top: 5rem;
+}
